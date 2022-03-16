@@ -1,0 +1,1 @@
+tl;dr - run app for tenant - custTest
